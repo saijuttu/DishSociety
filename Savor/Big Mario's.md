@@ -1,10 +1,7 @@
 #Seattle-CapHill
 #Pizza
+#OpenLate
 #5Mins 
-#
+#Place
 
 
-- City-Area: Seattle-SLU
-- Cuisine: Thai
-- Time Open
-- Time Spent

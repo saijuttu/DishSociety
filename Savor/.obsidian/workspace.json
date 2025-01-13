@@ -4,94 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27387249fe000006",
+        "id": "cbbaa26155584a53",
         "type": "tabs",
         "children": [
           {
-            "id": "ae7d3b3c8244273e",
+            "id": "b06d980b48956e22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tem Sib.md",
+                "file": "Seasoned Fried Chicken.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tem Sib"
-            }
-          },
-          {
-            "id": "cf00ed6bc05d8fd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "2a776e94da3f379f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Big Mario's.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Big Mario's"
-            }
-          },
-          {
-            "id": "ec9f5793990f89c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tem Sib.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tem Sib"
-            }
-          },
-          {
-            "id": "9cee7165c8858788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trust Curry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trust Curry"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "862d2d993b4cfd2a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b812545ed9d0b852",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Seasoned Fried Chicken"
             }
           }
         ]
@@ -125,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "item",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,12 +162,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2a776e94da3f379f",
+  "active": "b06d980b48956e22",
   "lastOpenFiles": [
-    "Style Guide.md",
+    "Dumpling the Noodle.md",
+    "Chocolate Chip Cookie.md",
+    "Braised Beef Lamen Noodle.md",
     "Big Mario's.md",
-    "Welcome.md",
+    "Agua Verde Cafe.md",
+    "Mangodilla.md",
+    "Seasoned Fried Chicken.md",
+    "Tem Sib.md",
+    "Saint Bread.md",
+    "Style Guide.md",
     "Trust Curry.md",
-    "Tem Sib.md"
+    "Ginger Molasses Cookie.md",
+    "Welcome.md"
   ]
 }
